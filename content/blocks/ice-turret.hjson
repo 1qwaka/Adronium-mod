@@ -1,0 +1,38 @@
+range: 216
+recoilAmount: 6
+heatColor: 6ebff5
+reloadTime: 90
+burstSpacing: 8
+inaccuracy: 6
+shots: 4
+xRand: 2
+powerUse: 8.5
+size: 6
+health: 9600
+rotateSpeed: 4
+shootCone: 20
+category: turret
+shootLength: 18
+shootSound: laser
+shootShake: 1.45
+requirements:[
+    copper/1
+]
+buildVisibility: shown
+shootType:{
+    type: LaserBulletType
+    length: 224
+    width: 19.5
+    largeHit: true
+    damage: 130
+    lifetime: 13
+    colors:[
+        5eb2f266
+        5eb2f2
+        ffffff
+    ]
+
+    sideLength: 0
+    sideWidth: 0
+    sideAngle: 0
+}
