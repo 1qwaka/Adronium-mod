@@ -43,4 +43,5 @@ shootType:{
     ]
 
 }
+shootSound: none
 research: ice-turret

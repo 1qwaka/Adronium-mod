@@ -6,7 +6,7 @@ consumes: {
             magmatite/1
         ]
     }
-    liquid: cryofluid/0.01
+    liquid: cryofluid/0.15
 }
 powerProduction: 13
 itemDuration: 120

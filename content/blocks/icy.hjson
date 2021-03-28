@@ -18,4 +18,5 @@ requirements:[
     magmatite/100
 ]
 chargeEffects: 5
+shootSound: none
 research: lancer

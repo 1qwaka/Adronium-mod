@@ -17,7 +17,7 @@ requirements:[
 health: 640
 category: effect
 consumes:{
-    power: 5.5
+    power: 6.5
     items:{
         boost: true
         items: [
