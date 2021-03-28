@@ -1,0 +1,21 @@
+range: 180
+recoilAmount: 3
+heatColor: 6ebff5
+reloadTime: 90
+inaccuracy: 2
+shots: 3
+chargeTime: 30
+powerUse: 7
+size: 3
+health: 1800
+rotateSpeed: 4
+shootCone: 10
+category: turret
+shootShake: 1.5
+requirements:[
+    silicon/100
+    graphite/100
+    magmatite/100
+]
+chargeEffects: 5
+research: lancer

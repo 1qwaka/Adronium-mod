@@ -1,7 +1,7 @@
 const l = require("lib");
 const ice = extend(PowerTurret, "ice-turret", {
-    load(){
+    load() {
         this.super$load();
-        this.baseRegion = Core.atlas.find(l.mn+"block-6");
+        this.baseRegion = Core.atlas.find(l.mn + "block-6");
     }
 });

@@ -1,0 +1,26 @@
+outputItem: adronium/3
+size: 6
+health: 1800
+consumes: {
+    power: 8
+    items:{
+        items:[
+            surge-alloy/2
+            titanium/3
+            thorium/1
+        ]
+    }
+}
+craftTime: 60
+category: crafting
+requirements: [
+    titanium/500
+    thorium/500
+    silicon/300
+    surge-alloy/200
+    graphite/300
+    magmatite/200
+    adronium/70
+]
+itemCapacity: 18
+research: adronium-synthesizer

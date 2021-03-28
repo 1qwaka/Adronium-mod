@@ -1,0 +1,46 @@
+range: 256
+recoilAmount: 10
+heatColor: 6ebff5
+reloadTime: 90
+inaccuracy: 0
+powerUse: 27
+size: 8
+health: 14000
+rotateSpeed: 2
+shootCone: 45
+category: turret
+shootShake: 3
+firingMoveFract: 0.6
+shootLength: 25
+shootDuration: 240
+requirements:[
+    copper/3000
+    lead/3000
+    thorium/1500
+    silicon/1800
+    graphite/1800
+    adronium/1200
+    magmatite/2000
+]
+buildVisibility: shown
+shootType:{
+    type: ContinuousLaserBulletType
+    length: 270
+    width: 14
+    hitColor: 6ebff5
+    largeHit: true
+    damage: 230
+    drawSize: 700
+    lifetime: 16
+    shake: 1.9
+    status: freezing
+    incendChance: 0
+    colors:[
+        5eb2f255
+        5eb2f2aa
+        99cff7
+        ffffff
+    ]
+
+}
+research: ice-turret

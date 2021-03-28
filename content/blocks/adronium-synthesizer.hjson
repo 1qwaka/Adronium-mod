@@ -1,0 +1,23 @@
+outputItem: adronium/1
+size: 4
+health: 800
+flameColor: e0b179
+consumes: {
+    power: 5.5
+    items:{
+        items:[
+            surge-alloy/1
+            titanium/1
+        ]
+    }
+}
+craftTime: 100
+category: crafting
+requirements: [
+    titanium/350
+    thorium/200
+    silicon/100
+    surge-alloy/160
+    graphite/200
+]
+research: alloy-smelter

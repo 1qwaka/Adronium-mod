@@ -1,6 +1,6 @@
-name: "one-week-mod"
-displayName: "[red]IN DEVELOPMENT[]"
-description: "-"
+name: "adronium-mod"
+displayName: "Adronium mod"
+description: "Mod that made in a week.\nМод, сделанный за неделю"
 author: "[#C777D4]Дикая пчела"
-version: 777
+version: 1.0
 minGameVersion: 120

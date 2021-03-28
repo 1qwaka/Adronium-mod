@@ -1,0 +1,29 @@
+type: ForceProjector
+name: Adronium Field
+description: High level protective field. Absorbs bullets.
+radius: 150
+phaseRadiusBoost: 100
+shieldHealth: 3200
+phaseShieldBoost: 1000
+cooldownBrokenBase: 1.2
+phaseUseTime: 300
+size: 4
+requirements:[
+    adronium/120
+    titanium/150
+    silicon/100
+    graphite/120
+]
+health: 640
+category: effect
+consumes:{
+    power: 5.5
+    items:{
+        boost: true
+        items: [
+            phase-fabric/1
+            silicon/1
+        ]
+    }
+}
+research: force-projector

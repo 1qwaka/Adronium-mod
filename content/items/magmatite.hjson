@@ -1,0 +1,9 @@
+name: Magmatite
+description: Pretty hot, can be used like a titanium or thorium.
+explosiveness: 0.4
+flammability: 0.4
+radioactivity: 0.0
+charge: 0.1
+hardness: 5
+cost: 1.3
+color: de7262

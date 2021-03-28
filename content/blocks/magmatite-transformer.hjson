@@ -1,0 +1,24 @@
+type: GenericSmelter
+name: Magmatite Transformer
+description: In you case you really need magmatite but there is no magmatite on map.
+outputItem: magmatite/1
+size: 2
+health: 240
+flameColor: de7262
+consumes: {
+    power: 3
+    items:{
+        items:[
+            thorium/3
+        ]
+    }
+}
+craftTime: 80
+category: crafting
+requirements: [
+    titanium/60
+    thorium/60
+    silicon/50
+    phase-fabric/40
+]
+research: phase-weaver

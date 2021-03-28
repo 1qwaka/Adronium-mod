@@ -1,0 +1,10 @@
+type: Wall
+name: Large Magmatite Wall
+description: Has the same health as large Surge wall but can't create lightning.
+size: 2
+health: 3600
+requirements:[
+    magmatite/24
+]
+category: defense
+research: magmatite-wall

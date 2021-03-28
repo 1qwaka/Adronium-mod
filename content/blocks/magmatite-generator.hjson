@@ -1,0 +1,21 @@
+size: 3
+health: 600
+consumes: {
+    items:{
+        items:[
+            magmatite/1
+        ]
+    }
+    liquid: cryofluid/0.01
+}
+powerProduction: 13
+itemDuration: 120
+category: power
+requirements: [
+    titanium/110
+    lead/140
+    metaglass/40
+    silicon/90
+    graphite/120
+]
+research: thorium-reactor

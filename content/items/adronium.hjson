@@ -1,0 +1,8 @@
+name: Adronium
+description: Incorporates the electrical properties of surge alloy and the hardness of titanium. Energy veins are formed naturally during the creation process.
+explosiveness: 0.1
+flammability: 0.0
+radioactivity: 0.1
+charge: 0.7
+cost: 1.7
+color: e0b179
